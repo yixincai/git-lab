@@ -11,4 +11,4 @@ git-lab
   - GitHub username egauderman
 + Lab section: Wednesday 12pm
 
-[FIRSTocat](/FIRSTocat.png)
+![FIRSTocat](/FIRSTocat.png)
